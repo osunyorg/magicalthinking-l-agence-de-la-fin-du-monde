@@ -4,8 +4,8 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   logo:
-    header: "/assets/images/logo.png"
-    footer: "/assets/images/logo.png"
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo.svg"
   summary:
     position: hero
   search:
