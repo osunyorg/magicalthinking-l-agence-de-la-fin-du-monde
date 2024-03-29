@@ -5,4 +5,8 @@ items:
   target: "/livres-blancs/"
   kind: page
   children: []
+- title: L'agence
+  target: "/lagence/"
+  kind: page
+  children: []
 
