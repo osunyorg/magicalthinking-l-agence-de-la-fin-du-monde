@@ -1,24 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: 'Livres blancs '
   target: "/livres-blancs/"
   kind: page
   children: []
-- title: L'équipe
-  target: "/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/agenda/"
+- title: L'agence
+  target: "/lagence/"
   kind: page
   children: []
 
