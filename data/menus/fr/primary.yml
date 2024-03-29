@@ -13,7 +13,7 @@ items:
     target: "/projets/livre-blanc-esclavagiste/"
     kind: page
     children: []
-- title: Équipe
+- title: 'L''Agence '
   target: "/equipe/"
   kind: page
   children: []
