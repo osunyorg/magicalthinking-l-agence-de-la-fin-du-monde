@@ -5,7 +5,7 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: 'Livres Blanc '
+- title: 'Livres blancs '
   target: "/projets/"
   kind: page
   children:
