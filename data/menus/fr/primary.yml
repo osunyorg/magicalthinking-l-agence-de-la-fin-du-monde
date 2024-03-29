@@ -9,9 +9,8 @@ items:
   target: "/projets/"
   kind: page
   children:
-  - title: Économie de l’esclavage Stratégies pour accroître les marges dans l’industrie
-      textile
-    target: "/projets/economie-de-lesclavage-strategies-pour-accroitre-les-marges-dans-lindustrie-textile/"
+  - title: Livre blanc esclavagiste
+    target: "/projets/livre-blanc-esclavagiste/"
     kind: page
     children: []
 - title: Équipe
