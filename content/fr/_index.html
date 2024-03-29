@@ -12,7 +12,7 @@ full_width: true
 design:
   full_width: true
   toc:
-    present: false
+    present: true
     offcanvas: true
 
 position: 1
@@ -22,7 +22,7 @@ translation_key: communication-website-page-7faac174-011e-4def-b47e-2b21b4730c88
 bodyclass: >-
   
 image:
-  id: "0cd69a0e-26e8-4195-ad30-d3eceb5194c2"
+  id: "2e978c77-a6fb-4ddf-9666-2bbb28a76f1b"
   alt: ""
   credit: >-
     
@@ -48,7 +48,7 @@ header_cta:
   label: 
   target: 
 contents_reading_time:
-  seconds: 36
+  seconds: 38
   text: >-
     1 minute
 contents:
@@ -75,12 +75,17 @@ contents:
 
 
 
+  - kind: heading
+    title: >-
+      Nos résultats
+    position: 0
+    rank: 2
   - kind: block
     template: key_figures
     title: >-
-      Nos résultats
+      
     ranks:
-      self: 2
+      self: false
     data:
       description: >-
         
@@ -113,11 +118,27 @@ contents:
 
 
   - kind: block
+    template: projects
+    title: >-
+      Nos projets
+    ranks:
+      self: 3
+      children: 4
+    data:
+      mode: all
+      all: true
+      layout: grid
+      projects:
+        - slug: "economie-esclavage-strategies-accroitre-marges-industrie-textile"
+          file: "projects/2024-economie-esclavage-strategies-accroitre-marges-industrie-textile.html"
+
+
+  - kind: block
     template: chapter
     title: >-
       Nos valeurs
     ranks:
-      self: 2
+      self: 3
     data:
       layout: no_background
       text: >-
@@ -140,7 +161,7 @@ contents:
     title: >-
       Nos objectifs
     ranks:
-      self: 2
+      self: 3
     data:
       layout: no_background
       text: >-
@@ -157,6 +178,13 @@ contents:
         
 
 
+
+
+  - kind: heading
+    title: >-
+      Nos projets
+    position: 1
+    rank: 2
 
 
 ---
