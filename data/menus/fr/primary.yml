@@ -5,8 +5,4 @@ items:
   target: "/livres-blancs/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
 
