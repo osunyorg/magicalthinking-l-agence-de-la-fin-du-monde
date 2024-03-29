@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: 'Livres blancs '
   target: "/livres-blancs/"
   kind: page
