@@ -6,11 +6,11 @@ items:
   kind: page
   children: []
 - title: 'Livres blancs '
-  target: "/projets/"
+  target: "/livres-blancs/"
   kind: page
   children:
   - title: Livre blanc esclavagiste
-    target: "/projets/livre-blanc-esclavagiste/"
+    target: "/livres-blancs/livre-blanc-esclavagiste/"
     kind: page
     children: []
 - title: 'L''Agence '
