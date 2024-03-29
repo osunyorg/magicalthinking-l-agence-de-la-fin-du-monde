@@ -9,7 +9,7 @@ items:
   target: "/livres-blancs/"
   kind: page
   children: []
-- title: 'L''Agence '
+- title: L'équipe
   target: "/equipe/"
   kind: page
   children: []
