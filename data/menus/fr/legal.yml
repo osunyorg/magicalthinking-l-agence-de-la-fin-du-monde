@@ -9,7 +9,7 @@ items:
   target: "/politique-de-confidentialite/"
   kind: page
   children: []
-- title: Accessibilité
+- title: Non-accessibilité
   target: "/accessibilite/"
   kind: page
   children: []
