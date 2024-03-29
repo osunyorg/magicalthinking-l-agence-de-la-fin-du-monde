@@ -8,11 +8,7 @@ items:
 - title: 'Livres blancs '
   target: "/livres-blancs/"
   kind: page
-  children:
-  - title: Livre blanc esclavagiste
-    target: "/livres-blancs/livre-blanc-esclavagiste/"
-    kind: page
-    children: []
+  children: []
 - title: 'L''Agence '
   target: "/equipe/"
   kind: page
