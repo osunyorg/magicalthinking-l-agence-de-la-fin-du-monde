@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Non-accessibilité
-  target: "/accessibilite/"
+  target: "/non-accessibilite/"
   kind: page
   children: []
 - title: Plan du site
