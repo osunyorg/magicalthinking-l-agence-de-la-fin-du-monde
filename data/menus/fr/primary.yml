@@ -9,4 +9,8 @@ items:
   target: "/lagence/"
   kind: page
   children: []
+- title: Projets
+  target: ''
+  kind: blank
+  children: []
 
