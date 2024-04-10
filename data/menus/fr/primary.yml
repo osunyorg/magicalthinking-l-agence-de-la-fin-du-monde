@@ -9,4 +9,8 @@ items:
   target: "/ils-nous-font-confiance/"
   kind: page
   children: []
+- title: Livres Blancs
+  target: "/livres-blanc/"
+  kind: page
+  children: []
 
