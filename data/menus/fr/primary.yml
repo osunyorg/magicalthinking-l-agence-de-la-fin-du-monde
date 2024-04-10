@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Projets
-  target: ''
-  kind: blank
+  target: "/ils-nous-font-confiance/"
+  kind: page
   children: []
 
