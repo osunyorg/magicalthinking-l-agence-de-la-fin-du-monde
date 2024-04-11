@@ -9,12 +9,12 @@ items:
   target: "/ils-nous-font-confiance/"
   kind: page
   children: []
-- title: L'agence
-  target: "/lagence/"
-  kind: page
-  children: []
 - title: Services
   target: "/nos-services/"
+  kind: page
+  children: []
+- title: L'agence
+  target: "/lagence/"
   kind: page
   children: []
 
