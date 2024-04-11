@@ -1,16 +1,16 @@
 ---
 title: Menu principal
 items:
-- title: L'agence
-  target: "/lagence/"
-  kind: page
-  children: []
 - title: Livres Blancs
   target: "/livres-blanc/"
   kind: page
   children: []
 - title: Projets
   target: "/ils-nous-font-confiance/"
+  kind: page
+  children: []
+- title: L'agence
+  target: "/lagence/"
   kind: page
   children: []
 
