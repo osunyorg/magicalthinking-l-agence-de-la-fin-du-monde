@@ -13,4 +13,8 @@ items:
   target: "/lagence/"
   kind: page
   children: []
+- title: Nos services
+  target: "/nos-services/"
+  kind: page
+  children: []
 
