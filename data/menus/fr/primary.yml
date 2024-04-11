@@ -5,7 +5,7 @@ items:
   target: "/livres-blanc/"
   kind: page
   children: []
-- title: Projets
+- title: Clients
   target: "/ils-nous-font-confiance/"
   kind: page
   children: []
