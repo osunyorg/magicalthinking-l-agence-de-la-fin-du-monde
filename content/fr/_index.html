@@ -4,13 +4,14 @@ breadcrumb_title: >-
 title: >-
   La fin justifie les moyens.
 url: "/"
+slug: ""
 date: 2024-03-29T07:21:59+01:00
 lastmod: 2024-09-29T11:20:15+02:00
 meta:
   hugo:
     permalink: "/"
+    path: "/"
     file: "content/fr/_index.html"
-    path: ""
     slug: ""
   dates:
     created_at: 2024-03-29T07:21:59+01:00
@@ -150,7 +151,7 @@ contents:
       children: 3
     data:
       mode: category
-      category: "/livre-blancs/"
+      category: "livre-blancs"
       layout: grid
       options:
         categories: true
@@ -160,10 +161,14 @@ contents:
         year: true
 
       projects:
-        - slug: "apprentissage-pour-l-echec"
-          file: "projects/2024-apprentissage-pour-l-echec.html"
-        - slug: "economie-de-l-exploitation"
-          file: "projects/2024-economie-de-l-exploitation.html"
+        - permalink: "/livres-blancs/2024-apprentissage-pour-l-echec/"
+          path: "/projects/2024-apprentissage-pour-l-echec"
+          slug: "apprentissage-pour-l-echec"
+          file: "content/fr/projects/2024-apprentissage-pour-l-echec.html"
+        - permalink: "/livres-blancs/2024-economie-de-l-exploitation/"
+          path: "/projects/2024-economie-de-l-exploitation"
+          slug: "economie-de-l-exploitation"
+          file: "content/fr/projects/2024-economie-de-l-exploitation.html"
 
 
   - kind: block
