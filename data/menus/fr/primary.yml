@@ -5,20 +5,24 @@ items:
   target: "/livres-blanc/"
   kind: page
   children: []
+  path: "/pages/livres-blanc"
   file: content/fr/pages/livres-blanc/_index.html
 - title: Clients
   target: "/ils-nous-font-confiance/"
   kind: page
   children: []
+  path: "/pages/ils-nous-font-confiance"
   file: content/fr/pages/ils-nous-font-confiance/_index.html
 - title: Services
   target: "/nos-services/"
   kind: page
   children: []
+  path: "/pages/nos-services"
   file: content/fr/pages/nos-services/_index.html
 - title: L'agence
   target: "/lagence/"
   kind: page
   children: []
+  path: "/pages/lagence"
   file: content/fr/pages/lagence/_index.html
 
