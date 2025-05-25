@@ -1,7 +1,5 @@
 theme: osuny
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
   logo:
     header: "/assets/images/logo.svg"
@@ -9,4 +7,4 @@ params:
   summary:
     position: hero
   search:
-    active: false  
+    active: false
