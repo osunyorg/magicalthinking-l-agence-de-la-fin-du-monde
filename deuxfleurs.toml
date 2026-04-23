@@ -13,3 +13,108 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/2024-economie-de-l-esclavage/"
+to = "/livres-blancs/2024-economie-de-l-esclavage/"
+
+[[redirects]]
+from = "/2024-marketing-de-la-misere/"
+to = "/livres-blancs/2024-marketing-de-la-misere/"
+
+[[redirects]]
+from = "/2023-tamgour/"
+to = "/livres-blancs/2023-tamgour/"
+
+[[redirects]]
+from = "/livre-blancs/"
+to = "/livres-blancs/livre-blancs/"
+
+[[redirects]]
+from = "/2024-le-hydroriver/"
+to = "/livres-blancs/2024-le-hydroriver/"
+
+[[redirects]]
+from = "/accessibilite/"
+to = "/non-accessibilite/"
+
+[[redirects]]
+from = "/2023-zara/"
+to = "/livres-blancs/2023-zara/"
+
+[[redirects]]
+from = "/livres-blancs/economie-de-l-esclavage/"
+to = "/livres-blancs/2024-economie-de-l-esclavage/"
+
+[[redirects]]
+from = "/2023-eco-tromperie/"
+to = "/livres-blancs/2023-eco-tromperie/"
+
+[[redirects]]
+from = "/2023-on-te-voit/"
+to = "/livres-blancs/2023-on-te-voit/"
+
+[[redirects]]
+from = "/2023-spacecare-by-ab/"
+to = "/livres-blancs/2023-spacecare-by-ab/"
+
+[[redirects]]
+from = "/projets-davenir/"
+to = "/livres-blancs/projets-davenir/"
+
+[[redirects]]
+from = "/2023-sygmol/"
+to = "/livres-blancs/2023-sygmol/"
+
+[[redirects]]
+from = "/livres-blancs/2024-eduquer-pour-l-echec/"
+to = "/livres-blancs/2024-apprentissage-pour-l-echec/"
+
+[[redirects]]
+from = "/2023-l-ere-de-la-survie/"
+to = "/livres-blancs/2023-l-ere-de-la-survie/"
+
+[[redirects]]
+from = "/2022-douce-apocalypse/"
+to = "/livres-blancs/2022-douce-apocalypse/"
+
+[[redirects]]
+from = "/2024-credit-humain/"
+to = "/livres-blancs/2024-credit-humain/"
+
+[[redirects]]
+from = "/2024-economie-de-l-exploitation/"
+to = "/livres-blancs/2024-economie-de-l-exploitation/"
+
+[[redirects]]
+from = "/2024-apprentissage-pour-l-echec/"
+to = "/livres-blancs/2024-apprentissage-pour-l-echec/"
+
+[[redirects]]
+from = "/2023-l-apres-mediterranee/"
+to = "/livres-blancs/2023-l-apres-mediterranee/"
+
+[[redirects]]
+from = "/projets/economie-de-lesclavage-strategies-pour-accroitre-les-marges-dans-lindustrie-textile/"
+to = "/livres-blancs/"
+
+[[redirects]]
+from = "/2024-rearmement-demographique/"
+to = "/livres-blancs/2024-rearmement-demographique/"
+
+[[redirects]]
+from = "/projets/"
+to = "/livres-blancs/"
+
+[[redirects]]
+from = "/2024-industrie-de-la-dependance/"
+to = "/livres-blancs/2024-industrie-de-la-dependance/"
+
+[[redirects]]
+from = "/livres-blancs/2023-douce-apocalypse/"
+to = "/livres-blancs/2022-douce-apocalypse/"
+
+[[redirects]]
+from = "/2023-burger-king/"
+to = "/livres-blancs/2023-burger-king/"
+
