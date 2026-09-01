@@ -79,6 +79,10 @@ from = "/2022-douce-apocalypse/index.html"
 to = "/livres-blancs/2022-douce-apocalypse/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/livret1-liberation-du-travailpdf/"
+
+[[redirects]]
 from = "/2024-credit-humain/index.html"
 to = "/livres-blancs/2024-credit-humain/"
 
